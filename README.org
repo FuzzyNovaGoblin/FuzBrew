@@ -1,0 +1,3 @@
+* Fuzbrew
+
+A Flutter companion app to FuzBrew coffee maker.
